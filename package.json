@@ -25,8 +25,5 @@
     "type": "git",
     "url": "git://github.com/vinzscam/react-native-file-viewer.git"
   },
-  "license": "MIT",
-  "peerDependencies": {
-    "react-native": ">=0.47"
-  }
+  "license": "MIT"
 }
